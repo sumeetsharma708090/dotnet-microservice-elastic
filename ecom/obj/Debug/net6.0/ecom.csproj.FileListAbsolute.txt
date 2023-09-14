@@ -1,0 +1,175 @@
+D:\IMSS\ecom\bin\Debug\net6.0\appsettings.Development.json
+D:\IMSS\ecom\bin\Debug\net6.0\appsettings.json
+D:\IMSS\ecom\bin\Debug\net6.0\ecom.exe
+D:\IMSS\ecom\bin\Debug\net6.0\ecom.deps.json
+D:\IMSS\ecom\bin\Debug\net6.0\ecom.runtimeconfig.json
+D:\IMSS\ecom\bin\Debug\net6.0\ecom.dll
+D:\IMSS\ecom\bin\Debug\net6.0\ecom.pdb
+D:\IMSS\ecom\bin\Debug\net6.0\Azure.Core.dll
+D:\IMSS\ecom\bin\Debug\net6.0\Azure.Identity.dll
+D:\IMSS\ecom\bin\Debug\net6.0\Humanizer.dll
+D:\IMSS\ecom\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\IMSS\ecom\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\IMSS\ecom\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\IMSS\ecom\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\IMSS\ecom\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\IMSS\ecom\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\IMSS\ecom\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\IMSS\ecom\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\IMSS\ecom\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\IMSS\ecom\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\IMSS\ecom\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\IMSS\ecom\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\IMSS\ecom\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\IMSS\ecom\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\IMSS\ecom\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\IMSS\ecom\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\IMSS\ecom\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\IMSS\ecom\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\IMSS\ecom\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\IMSS\ecom\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\IMSS\ecom\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\IMSS\ecom\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\IMSS\ecom\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\IMSS\ecom\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\IMSS\ecom\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\IMSS\ecom\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\IMSS\ecom\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\IMSS\ecom\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\IMSS\ecom\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\IMSS\ecom\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\IMSS\ecom\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\IMSS\ecom\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\IMSS\ecom\bin\Debug\net6.0\System.CodeDom.dll
+D:\IMSS\ecom\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\IMSS\ecom\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\IMSS\ecom\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\IMSS\ecom\bin\Debug\net6.0\System.Memory.Data.dll
+D:\IMSS\ecom\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\IMSS\ecom\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\IMSS\ecom\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\IMSS\ecom\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\IMSS\ecom\bin\Debug\net6.0\System.Text.Json.dll
+D:\IMSS\ecom\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\IMSS\ecom\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\IMSS\ecom\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\IMSS\ecom\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IMSS\ecom\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IMSS\ecom\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IMSS\ecom\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IMSS\ecom\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\IMSS\ecom\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\IMSS\ecom\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\IMSS\ecom\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\IMSS\ecom\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\IMSS\ecom\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\IMSS\ecom\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\IMSS\ecom\obj\Debug\net6.0\ecom.csproj.AssemblyReference.cache
+D:\IMSS\ecom\obj\Debug\net6.0\ecom.GeneratedMSBuildEditorConfig.editorconfig
+D:\IMSS\ecom\obj\Debug\net6.0\ecom.AssemblyInfoInputs.cache
+D:\IMSS\ecom\obj\Debug\net6.0\ecom.AssemblyInfo.cs
+D:\IMSS\ecom\obj\Debug\net6.0\ecom.csproj.CoreCompileInputs.cache
+D:\IMSS\ecom\obj\Debug\net6.0\ecom.MvcApplicationPartsAssemblyInfo.cs
+D:\IMSS\ecom\obj\Debug\net6.0\ecom.MvcApplicationPartsAssemblyInfo.cache
+D:\IMSS\ecom\obj\Debug\net6.0\staticwebassets\msbuild.ecom.Microsoft.AspNetCore.StaticWebAssets.props
+D:\IMSS\ecom\obj\Debug\net6.0\staticwebassets\msbuild.build.ecom.props
+D:\IMSS\ecom\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ecom.props
+D:\IMSS\ecom\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ecom.props
+D:\IMSS\ecom\obj\Debug\net6.0\staticwebassets.pack.json
+D:\IMSS\ecom\obj\Debug\net6.0\staticwebassets.build.json
+D:\IMSS\ecom\obj\Debug\net6.0\staticwebassets.development.json
+D:\IMSS\ecom\obj\Debug\net6.0\scopedcss\bundle\ecom.styles.css
+D:\IMSS\ecom\obj\Debug\net6.0\ecom.csproj.CopyComplete
+D:\IMSS\ecom\obj\Debug\net6.0\ecom.dll
+D:\IMSS\ecom\obj\Debug\net6.0\refint\ecom.dll
+D:\IMSS\ecom\obj\Debug\net6.0\ecom.pdb
+D:\IMSS\ecom\obj\Debug\net6.0\ecom.genruntimeconfig.cache
+D:\IMSS\ecom\obj\Debug\net6.0\ref\ecom.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\appsettings.json
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\ecom.exe
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\ecom.deps.json
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\ecom.runtimeconfig.json
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\ecom.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\ecom.pdb
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\Humanizer.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\obj\Debug\net6.0\ecom.csproj.AssemblyReference.cache
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\obj\Debug\net6.0\ecom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\obj\Debug\net6.0\ecom.AssemblyInfoInputs.cache
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\obj\Debug\net6.0\ecom.AssemblyInfo.cs
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\obj\Debug\net6.0\ecom.csproj.CoreCompileInputs.cache
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\obj\Debug\net6.0\ecom.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\obj\Debug\net6.0\ecom.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\obj\Debug\net6.0\scopedcss\bundle\ecom.styles.css
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\obj\Debug\net6.0\ecom.csproj.CopyComplete
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\obj\Debug\net6.0\ecom.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\obj\Debug\net6.0\refint\ecom.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\obj\Debug\net6.0\ecom.pdb
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\obj\Debug\net6.0\ecom.genruntimeconfig.cache
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\obj\Debug\net6.0\ref\ecom.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\Elastic.Apm.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\Elastic.Apm.AspNetCore.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\Elastic.Apm.Extensions.Hosting.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\Elastic.Apm.Extensions.Logging.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sumeetsharma\Downloads\ecom (1)\ecom\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
